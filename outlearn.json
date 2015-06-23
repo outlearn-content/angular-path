@@ -1,0 +1,45 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "angular",
+      "title" : "Awesome Web Apps with Angular",
+      "description" : "Get started with the awesomeness of Angular. Let Angular handle the busy work and focus on cranking on the most valuable parts of your web app. Learn about the power of declarative programming for user interface, test-driven development, two-way data binding, dependency injenction, and more.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "sun/things-about-angular"},
+        {"module" : "angularjs/introduction"},
+        {"module" : "angularjs/concepts"},
+        {"module" : "angularjs/databinding"},
+        {"module" : "angularjs/controller"},
+        {"module" : "angularjs/services"},
+        {"module" : "angularjs/scope"},
+        {"module" : "angularjs/di"},
+        {"module" : "angularjs/templates"},
+        {"module" : "angularjs/expression"},
+        {"module" : "angularjs/filter"},
+        {"module" : "angularjs/forms"},
+        {"module" : "angularjs/directive"},
+        {"module" : "angularjs/animations"},
+        {"module" : "angularjs/compiler"},
+        {"module" : "angularjs/providers"},
+        {"module" : "angularjs/bootstrap"},
+        {"module" : "angularjs/unit-testing"},
+        {"module" : "angularjs/e2e-testing"},
+        {"module" : "angularjs/location"},
+        {"module" : "angularjs/css-styling"},
+        {"module" : "angularjs/production"}
+      ]
+    }
+
+  ],
+
+  "modules" : [
+  ],
+
+  "assets" : [
+  ]
+}
