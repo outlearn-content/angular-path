@@ -5,7 +5,7 @@
     {
       "name" : "angular",
       "title" : "Awesome Web Apps with Angular",
-      "description" : "Get started with the awesomeness of Angular. Let Angular handle the busy work and focus on cranking on the most valuable parts of your web app. Learn about the power of declarative programming for user interface, test-driven development, two-way data binding, dependency injenction, and more.",
+      "description" : "Get started with the awesomeness of Angular. Let Angular handle the boilerplate and focus on cranking on the most valuable parts of your web app. Learn about the power of declarative programming for user interface, test-driven development, two-way data binding, dependency injection, and more.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic.jpg",
       "privacy" : "public",
       "pages" : [
