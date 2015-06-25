@@ -10,9 +10,9 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "sun/things-about-angular"},
         {"module" : "angularjs/introduction"},
         {"module" : "angularjs/concepts"},
+        {"module" : "sun/things-about-angular"},
         {"module" : "angularjs/databinding"},
         {"module" : "angularjs/controller"},
         {"module" : "angularjs/services"},
