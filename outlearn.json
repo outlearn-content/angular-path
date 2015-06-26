@@ -10,6 +10,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
+        {"module" : "jeremylikness/10-reasons-learn-angularjs"},
         {"module" : "angularjs/introduction"},
         {"module" : "angularjs/concepts"},
         {"module" : "sun/things-about-angular"},
