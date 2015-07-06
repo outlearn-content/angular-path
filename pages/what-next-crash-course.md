@@ -1,20 +1,13 @@
-# Introduction
+# What Should I do Next
 
-Crash course into angular
+You've now done some real coding in Angular. What should you do next? Here are some options:
 
-[Angular Tutorial](https://pilot.outlearn.com/module/angularjs/angular-tutorial).
+* Get to the next level of detail with the Outlearn Path [Understand Angular In-depth](https://pilot.outlearn.com/learn/ShieldSensei/angular)
+* Keep your writing clean with [AngularJS Patterns: Clean Code](http://www.pluralsight.com/courses/angularjs-patterns-clean-code)
+* Make sure your code stays secure with [AngularJS Security Fundamentals](http://www.pluralsight.com/courses/angularjs-security-fundamentals)
+* Join the [AngularJS Google Group](https://groups.google.com/forum/#!forum/angular) to be part of the community
 
+Also, I'd love to have feedback on this Path. What was great? What wasn't? Any other ideas? Go ahead and use the feedback bar at the right side of the screen.
 
-
-Hope you enjoy the ride!
+Best of luck in your Angular adventures
 Shield Sensei
-
-<img src="https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/shield.png" alt="Shield" style="width:250px;height:250px" align="left">
-
-<br clear="all">
-
-**About the Author:**
-
-Shield Sensei is one of the developer superheroes who like to hang out at Outlearn and is Outlearn's resident expert on Angular.
-
-As a young man Shield Sensei spent his days with monks in Sri Lanka learning to simplify his life. His awesome powers of focus lead him to develop web apps that know what the user needs before they even sign in.

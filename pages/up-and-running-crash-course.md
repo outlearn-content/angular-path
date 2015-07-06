@@ -1,20 +1,6 @@
-# Introduction
+# Up and Running with an App
 
-Crash course into angular
+Ever wondered how quickly you could write a functional app? Here's an example that takes less than 10-minutes. Sure, it's pretty fast typing but really highlight how simple the basics Angular are. To get the most out of the example, go ahead and build the same or similar app right along, pausing the video when needed.\
 
-[Angular Tutorial](https://pilot.outlearn.com/module/angularjs/angular-tutorial).
-
-
-
-Hope you enjoy the ride!
+Happy coding!  
 Shield Sensei
-
-<img src="https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/shield.png" alt="Shield" style="width:250px;height:250px" align="left">
-
-<br clear="all">
-
-**About the Author:**
-
-Shield Sensei is one of the developer superheroes who like to hang out at Outlearn and is Outlearn's resident expert on Angular.
-
-As a young man Shield Sensei spent his days with monks in Sri Lanka learning to simplify his life. His awesome powers of focus lead him to develop web apps that know what the user needs before they even sign in.

@@ -4,7 +4,7 @@
   "paths" : [
     {
       "name" : "angular",
-      "title" : "Awesome Web Apps with Angular",
+      "title" : "Understand Angular In-depth",
       "description" : "Get started with the awesomeness of Angular. Let Angular handle the boilerplate and get cranking on the most valuable parts of your app.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic.jpg",
       "privacy" : "public",
