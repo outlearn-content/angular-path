@@ -34,6 +34,17 @@
         {"module" : "angularjs/css-styling"},
         {"module" : "angularjs/production"}
       ]
+    },
+    {
+      "name" : "angular-learn",
+      "title" : "Crash Course to Angular",
+      "description" : "Jump right in to Angular with a quick overview and two sample apps.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic2.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/welcome-learn.md"},
+        {"module" : "angularjs/angular-tutorial"}
+      ]
     }
 
   ],
