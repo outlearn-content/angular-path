@@ -56,7 +56,7 @@
     {
       "name" : "ng-best-practices",
       "title" : "ng-best-practices",
-      "description" : "This is how you *should* write your Angular apps",
+      "description" : "This is how you should write your Angular apps",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic3.jpg",
       "privacy" : "public",
       "pages" : [
