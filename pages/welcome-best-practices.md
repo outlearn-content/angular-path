@@ -1,10 +1,8 @@
 # Introduction
 
-Know you want to build something in Angular and want to get right to it? You have come to the right place! We'll get you started with three quick Modules that highlights the strengths of Angular followed by a quick overview of the landscape of tools available for you in the framework. That should take you no more than 15-20 minutes.
+Angular gives you a ton of useful features and plenty of freedom to use them. But sometimes you just want to know the *right* way to do things. This Path will guide you through some best and worst practices so you don't have to learn everything through trial and error.
 
-Next, I have lined up a Module that builds A JavaScript Feed Reader in Under 10 Minutes Using Angular JS. Finally, you can go follow a step-by-step tutorial to build a functional Phone Catalog app and experiment with some cool ideas along the way. The tutorial module should take 30-60 minutes, depending how much you get into all the experiments.
-
-Hope you enjoy the ride!  
+Practice makes perfect  
 Shield Sensei
 
 <img src="https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/shield.png" alt="Shield" style="width:250px;height:250px" align="left">
