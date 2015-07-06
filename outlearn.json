@@ -50,7 +50,7 @@
         {"module" : "jeremylikness/feed-reader-under-10-minutes"},
         {"page" : "./pages/real-app-crash-course.md"},
         {"module" : "angularjs/angular-tutorial"}
-        {"page" : "./pages/what-next-crash-course.md"},
+        {"page" : "./pages/what-next-crash-course.md"}
       ]
     }
 
