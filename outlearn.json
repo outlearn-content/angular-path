@@ -36,14 +36,21 @@
       ]
     },
     {
-      "name" : "angular-learn",
+      "name" : "angular-crash-course",
       "title" : "Crash Course to Angular",
       "description" : "Jump right in to Angular with a quick overview and two sample apps.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic2.jpg",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./pages/welcome-learn.md"},
+        {"page" : "./pages/welcome-crash-course.md"},
+        {"module" : "jeremylikness/10-reasons-learn-angularjs"},
+        {"module" : "angularjs/introduction"},
+        {"module" : "angularjs/concepts"},
+        {"page" : "./pages/up-and-running-crash-course.md"},
+        {"module" : "jeremylikness/feed-reader-under-10-minutes"},
+        {"page" : "./pages/real-app-crash-course.md"},
         {"module" : "angularjs/angular-tutorial"}
+        {"page" : "./pages/what-next-crash-course.md"},
       ]
     }
 
