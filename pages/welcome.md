@@ -10,7 +10,7 @@ As you go through the path, you can track your progress and put your learning to
 
 If you have any feedback, go ahead and use the Feedback bar on the right.
 
-Hope you enjoy the ride!
+Hope you enjoy the ride!  
 Shield Sensei
 
 <img src="https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/shield.png" alt="Shield" style="width:250px;height:250px" align="left">
