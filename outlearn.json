@@ -62,6 +62,11 @@
       "pages" : [
         {"page" : "./pages/welcome-best-practices.md"},
         {"module" : "jeremylikness/top-5-angular-mistakes"},
+        {"page" : "./pages/welcome-best-practices.md"},
+        {"module" : "angularjs/unit-testing"},
+        {"module" : "angularjs/e2e-testing"},
+        {"module" : "sravikiran/unit-testing-angular-controller-jasmine"},
+        {"module" : "newtriks/test-angularjs-directive"},
         {"page" : "./pages/what-next-best-practices.md"}
       ]
     }
