@@ -1,8 +1,12 @@
 # Introduction
 
-Know you want to build something in Angular and want to get right to it? You have come to the right place! We'll get you started with three quick Modules that highlights the strengths of Angular followed by a quick overview of the landscape of tools available for you in the framework. That should take you no more than 15-20 minutes.
+Know you want to build something in Angular and want to get right to it? You have come to the right place! We'll get you started with three quick Modules that highlight the strengths of Angular followed by a quick overview of the landscape of tools available for you in the framework. That should take you no more than 15-20 minutes.
 
-Next, I have lined up a Module that builds A JavaScript Feed Reader in Under 10 Minutes Using Angular JS. Finally, you can go follow a step-by-step tutorial to build a functional Phone Catalog app and experiment with some cool ideas along the way. The tutorial module should take 30-60 minutes, depending how much you get into all the experiments.
+Next, you'll have a Module that builds A JavaScript Feed Reader in Under 10 Minutes Using Angular JS.
+
+Finally, you can go follow a step-by-step tutorial to build a functional Phone Catalog app and experiment with some cool ideas along the way. The tutorial module should take 30-60 minutes, depending how much you get into all the experiments.
+
+The Outlearn platform itself is pretty self-explanatory but you can also [check out this tour](https://pilot.outlearn.com/learn/outlearn/start-learning).
 
 Hope you enjoy the ride!  
 Shield Sensei
