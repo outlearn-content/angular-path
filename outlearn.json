@@ -24,6 +24,7 @@
         {"module" : "angularjs/filter"},
         {"module" : "angularjs/forms"},
         {"module" : "angularjs/directive"},
+        {"module" : "toddmotto/angular-directives"},
         {"module" : "angularjs/animations"},
         {"module" : "angularjs/compiler"},
         {"module" : "angularjs/providers"},
@@ -69,6 +70,8 @@
         {"module" : "angularjs/e2e-testing"},
         {"module" : "sravikiran/unit-testing-angular-controller-jasmine"},
         {"module" : "newtriks/test-angularjs-directive"},
+        {"page" : "./pages/performance-best-practices.md"},
+        {"module" : "toddmotto/one-time-binding"},
         {"page" : "./pages/what-next-best-practices.md"}
       ]
     }
