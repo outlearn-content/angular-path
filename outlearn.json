@@ -62,6 +62,8 @@
       "pages" : [
         {"page" : "./pages/welcome-best-practices.md"},
         {"module" : "jeremylikness/top-5-angular-mistakes"},
+        {"page" : "./pages/styleguide-best-practices.md"},
+        {"module" : "toddmotto/styleguide"},
         {"page" : "./pages/testing-best-practices.md"},
         {"module" : "angularjs/unit-testing"},
         {"module" : "angularjs/e2e-testing"},
