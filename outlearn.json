@@ -5,7 +5,7 @@
     {
       "name" : "angular",
       "title" : "Understand Angular In-depth",
-      "description" : "Get started with the awesomeness of Angular. Let Angular handle the boilerplate and get cranking on the most valuable parts of your app.",
+      "description" : "Get a thorough understanding of Angular. Learn from a broad combination of blog posts by independent authors and guides by the Angular team. You'll get to see in detail the awesomeness of Angular and how it can handle the boilerplate so you can get cranking on the most valuable parts of your app.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic.jpg",
       "privacy" : "public",
       "pages" : [
@@ -39,7 +39,7 @@
     {
       "name" : "angular-crash-course",
       "title" : "Crash Course to Angular",
-      "description" : "Jump right in to Angular with a quick overview and two sample apps.",
+      "description" : "For those with little or no experience with Angular, this path lets you jump right in. You'll get a quick overview of how Angular works. We will also review two sample apps that show how to write Angular code in practice.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic2.jpg",
       "privacy" : "public",
       "pages" : [
@@ -57,7 +57,7 @@
     {
       "name" : "ng-best-practices",
       "title" : "ng-best-practices",
-      "description" : "This is how you should write your Angular apps",
+      "description" : "Take your Angular skills to the next level by implementing these best practices. We cover common mistakes, testing, and more.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic3.jpg",
       "privacy" : "public",
       "pages" : [
