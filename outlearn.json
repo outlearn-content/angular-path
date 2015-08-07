@@ -57,7 +57,7 @@
     {
       "name" : "ng-best-practices",
       "title" : "ng-best-practices",
-      "description" : "Take your Angular skills to the next level by implementing these best practices. We cover common mistakes, testing, and more.",
+      "description" : "Take your Angular skills to the next level by implementing these best practices. We will cover common mistakes, testing, and more.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic3.jpg",
       "privacy" : "public",
       "pages" : [
