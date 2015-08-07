@@ -39,7 +39,7 @@
     {
       "name" : "angular-crash-course",
       "title" : "Crash Course to Angular",
-      "description" : "For those with little or no experience with Angular, this path lets you jump right in. You'll get a quick overview of how Angular works. We will also review two sample apps that show how to write Angular code in practice.",
+      "description" : "For those with little or no experience with Angular, this path lets you jump right in and start writing single-page web apps. You'll get a quick overview of how Angular works. We will also review two sample apps that show how to write Angular code in practice.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic2.jpg",
       "privacy" : "public",
       "pages" : [
