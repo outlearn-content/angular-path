@@ -5,7 +5,7 @@
     {
       "name" : "angular",
       "title" : "Understand Angular In-depth",
-      "description" : "Get a thorough understanding of Angular. Learn from a broad combination of blog posts by independent authors and guides by the Angular team. You'll get to see in detail the awesomeness of Angular and how it can handle the boilerplate so you can get cranking on the most valuable parts of your app.",
+      "description" : "Get a thorough understanding of Angular. Learn from a broad combination of blog posts by independent authors and developer guides by the Angular team. You'll get to see in detail the awesomeness of Angular and how it can handle the boilerplate so you can get cranking on the most valuable parts of your app.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/angular-path/master/assets/mosaic.jpg",
       "privacy" : "public",
       "pages" : [
