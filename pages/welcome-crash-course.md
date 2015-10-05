@@ -6,7 +6,6 @@ Next, you'll have a Module that builds A JavaScript Feed Reader in Under 10 Minu
 
 Finally, you can go follow a step-by-step tutorial to build a functional Phone Catalog app and experiment with some cool ideas along the way. The tutorial module should take 30-60 minutes, depending how much you get into all the experiments.
 
-The Outlearn platform itself is pretty self-explanatory. If you want to learn about it in detail, [check out this feature tour](https://pilot.outlearn.com/learn/outlearn/start-learning).
 
 Hope you enjoy the ride!  
 Shield Sensei
